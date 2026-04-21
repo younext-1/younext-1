@@ -117,27 +117,6 @@ currently  : Building N.E.X.U.S. | Studying for Bac Libre
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true&border_radius=12" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide=html,css&border_radius=12" height="170px" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&border_radius=12" height="170px" />
-</div>
-
----
-
-## 🔭 Currently Working On
-
-- 🤖 Enhancing **N.E.X.U.S.** with advanced AI analysis modules
-- 🎓 Preparing for **Bac Libre** (Arts/Humanities) alongside engineering studies
-- 🎬 Exploring **Content Automation** with Remotion
-- 🌱 Building **smart garden tech** with home horticulture experiments
 
 ---
 
