@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name       : Younes El Kadiri
+name       : Youssef El Kadiri
 role       : Computer Engineering Student & Full-Stack Developer
 school     : EST Essaouira, Morocco
 team       : Team YOUNEXT (Lead)
