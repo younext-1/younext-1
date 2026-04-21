@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=Younes%20El%20Kadiri&fontSize=50&fontColor=fff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Full-Stack%20%7C%20IoT%20Builder&descAlignY=58&descColor=ffffffcc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=Youssef%20El%20Kadiri&fontSize=50&fontColor=fff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Full-Stack%20%7C%20IoT%20Builder&descAlignY=58&descColor=ffffffcc" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student+%40+EST+Essaouira;Full-Stack+Developer+%7C+IoT+Builder;Leading+Team+YOUNEXT+%F0%9F%9A%80;Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
